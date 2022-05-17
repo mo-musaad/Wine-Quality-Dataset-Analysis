@@ -5,4 +5,4 @@ I tackle a real-world data set. i use python libraries (Pandas, NumPy, Matplotli
 
 * Assessing and Cleaning Data
 * Feature Engineering
-* Visualizing Your Results
+* Visualizing My Results
